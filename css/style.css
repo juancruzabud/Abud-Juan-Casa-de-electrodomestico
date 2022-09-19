@@ -1,0 +1,108 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+#header {
+height: 25vh;
+
+}
+#main {
+    height: 50%;
+    background: linear-gradient(90deg, rgba(226,116,21,1) 0%, rgba(252,100,2,0.7063200280112045) 0%);
+    
+}
+.nav-link{
+
+   color: white !important; 
+}
+.BuscarDos {
+    margin-left: 80%;
+}
+
+#footer{
+height: 25vh;
+}
+.d-block{
+height: 50vh;
+
+
+}
+.d-blockd{
+    width: 700px ;
+    height: 468px ;
+}
+.FiguraUno{
+    margin-left: 85%;
+    margin-right: 10px;
+}
+.FiguraTres{
+    margin-right: 10px;
+}
+.FiguraDos {
+    margin-right: 10px;
+}
+.CategiriasUno {
+    margin-top: 30px;
+    margin-left: 50px;
+    color: white;
+}
+.menu-horizontal {
+    margin-left: 50px;
+    color: white;
+    margin-top: 30px;
+}
+.CeluUno{
+    text-decoration: none;
+    color: white;
+}
+.BuscarDos {
+    color: white;
+}
+.TituloPrimero {
+    color: white;
+}
+.FormularioUno {
+    color: white;
+    margin-top: 25px;
+   margin-left: 50px;
+}
+.LogoUnos {
+    margin-top: 30px;
+    
+}
+.HistoriaUnos {
+    color: white;
+}
+ .ElectroUnos {
+    margin-left: 50%;
+    margin: 24px;
+} 
+.ParrafoDiez {
+    color: white;
+}
+.MapsUno {
+    height: 342px;
+    width: 300px;
+}
+.LogoUno {
+    margin-top: 30px;
+}
+.img-thumbnail {
+    margin: 3px;
+}
+    
+
+.LogoUnoss {
+    margin-top:10px;
+}
+.FiguraDoss {
+   margin-left:85% ;
+  margin-right: 10px;
+    
+}
+.FiguraS {
+    margin-right: 10px;
+}
+.FiguraD {
+    margin-right: 10px;
+}
